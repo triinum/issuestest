@@ -1,6 +1,6 @@
 ---
 name: backend task
-about: Task that involves frontend 
+about: Task that involves backend 
 title: "[backend]: "
 labels: backend
 ---
